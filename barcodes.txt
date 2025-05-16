@@ -1,0 +1,2 @@
+Just a list of barcode to test until we can get an actual barcode scanner:
+00602508617720
